@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 import com.mysql.cj.protocol.SocksProxySocketFactory;
 
-public class App {
+public class HmsApp {
 	static Scanner sc = new Scanner(System.in);
 
 	public static void main(String[] args) {
